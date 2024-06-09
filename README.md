@@ -4,3 +4,28 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=38&duration=2500&pause=1000&color=1F9CF7&center=true&vCenter=true&random=false&width=600&height=60&lines=Computer+Hardware+Technician;SEO+Specializt;Mobile+Applications+Developer;Web+Developer;Digital+Marketing+Specialist;Innovation+Specialist" alt="Typing SVG" /></a>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ravindumadu&label=Profile%20views&color=0e75b6&style=flat" alt="Ravindumadu" /> </p>
+<hr>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **with Java**
+
+- 🧑‍🎓 I’m an Undergraduate at **Java Institute**
+
+- 💬 Ask me about **Mobile App Development | OOC**
+
+- 📫 How to reach me **ravindumadusanka112@gmail.com**
+  
+- ⚡ Fun fact **Call me as Rm**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
