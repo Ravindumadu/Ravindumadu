@@ -29,3 +29,20 @@
   </td>
 </tr>
 </table>
+<hr style="height: 2%">
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindumadu&show_icons=true&theme=radical)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravindumadu&theme=radical)](https://git.io/streak-stats)
+</td>
+<td width="50%" align="center">
+
+  ![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+  
+  </td>
+</tr>
+</table>
